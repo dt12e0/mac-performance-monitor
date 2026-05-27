@@ -52,7 +52,7 @@ Some internal Apple SSDs or external drives may not expose temperature data thro
 
 ## Installation / 安装方式
 
-1. Download `性能检测.dmg` from the latest release.
+1. Download `Mac-Performance-Monitor-v1.0.0.dmg` from the latest release.
 2. Open the DMG and drag `性能检测.app` into Applications.
 3. Launch the app from Applications.
 4. If macOS blocks the first launch because the app is not notarized, right-click the app and choose **Open**.

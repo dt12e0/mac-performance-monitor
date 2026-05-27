@@ -23,7 +23,7 @@ brew install smartmontools
 
 ### Install
 
-Download `性能检测.dmg`, open it, and drag `性能检测.app` to Applications. If macOS blocks the first launch because the app is not notarized, right-click the app and choose **Open**.
+Download `Mac-Performance-Monitor-v1.0.0.dmg`, open it, and drag `性能检测.app` to Applications. If macOS blocks the first launch because the app is not notarized, right-click the app and choose **Open**.
 
 ### SHA-256
 
@@ -52,7 +52,7 @@ brew install smartmontools
 
 ### 安装
 
-下载 `性能检测.dmg`，打开后将 `性能检测.app` 拖入 Applications。如果首次启动时 macOS 因未公证而阻止打开，请右键应用并选择 **Open / 打开**。
+下载 `Mac-Performance-Monitor-v1.0.0.dmg`，打开后将 `性能检测.app` 拖入 Applications。如果首次启动时 macOS 因未公证而阻止打开，请右键应用并选择 **Open / 打开**。
 
 ### SHA-256
 
